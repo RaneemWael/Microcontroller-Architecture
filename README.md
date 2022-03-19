@@ -2,10 +2,10 @@
 Implementation of a new microcontroller architecture in Java.
 
 ## Description:
-•	Microarchitecture: Von Neumann architecture
-•	Instruction memory and data memory size: 1024x16 bit
-•	Total number of registers: 16 registers
-•	Instruction set: 2
+-	Microarchitecture: Von Neumann architecture
+-	Instruction memory and data memory size: 1024x16 bit
+-	Total number of registers: 16 registers
+-	Instruction set: 2
 
 #### More details:
 
